@@ -1,0 +1,14 @@
+FOR BACKEND
+http://localhost/yatra/admin/admin.php
+
+
+
+
+Database of the the project
+Database Name: travel
+
+step 1:create DB in localhost/phpmyadmin with the name "travel"
+step 2:import the sql file from database folder into created DB
+
+
+extract ckeditor.zip located at admin/css/
